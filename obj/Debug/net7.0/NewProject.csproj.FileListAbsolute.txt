@@ -1,0 +1,14 @@
+c:\Users\jgspa\Documents\VSCode\CSharp\NewProject\bin\Debug\net7.0\NewProject.exe
+c:\Users\jgspa\Documents\VSCode\CSharp\NewProject\bin\Debug\net7.0\NewProject.deps.json
+c:\Users\jgspa\Documents\VSCode\CSharp\NewProject\bin\Debug\net7.0\NewProject.runtimeconfig.json
+c:\Users\jgspa\Documents\VSCode\CSharp\NewProject\bin\Debug\net7.0\NewProject.dll
+c:\Users\jgspa\Documents\VSCode\CSharp\NewProject\bin\Debug\net7.0\NewProject.pdb
+c:\Users\jgspa\Documents\VSCode\CSharp\NewProject\obj\Debug\net7.0\NewProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jgspa\Documents\VSCode\CSharp\NewProject\obj\Debug\net7.0\NewProject.AssemblyInfoInputs.cache
+c:\Users\jgspa\Documents\VSCode\CSharp\NewProject\obj\Debug\net7.0\NewProject.AssemblyInfo.cs
+c:\Users\jgspa\Documents\VSCode\CSharp\NewProject\obj\Debug\net7.0\NewProject.csproj.CoreCompileInputs.cache
+c:\Users\jgspa\Documents\VSCode\CSharp\NewProject\obj\Debug\net7.0\NewProject.dll
+c:\Users\jgspa\Documents\VSCode\CSharp\NewProject\obj\Debug\net7.0\refint\NewProject.dll
+c:\Users\jgspa\Documents\VSCode\CSharp\NewProject\obj\Debug\net7.0\NewProject.pdb
+c:\Users\jgspa\Documents\VSCode\CSharp\NewProject\obj\Debug\net7.0\NewProject.genruntimeconfig.cache
+c:\Users\jgspa\Documents\VSCode\CSharp\NewProject\obj\Debug\net7.0\ref\NewProject.dll
